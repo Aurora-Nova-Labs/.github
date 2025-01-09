@@ -1,6 +1,6 @@
 <h1>
   <p align="center">
-    <img src="./assets/aurora-nova-logo-color-notext-nobg.png" alt="Logo" width="128">
+    <img src="../assets/aurora-nova-logo-color-notext-nobg.png" alt="Logo" width="128">
     <br>
     <br><strong>Aurora Nova Labs</strong>
   </p>
